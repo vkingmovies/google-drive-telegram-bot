@@ -1,10 +1,10 @@
 class config:
-    BOT_TOKEN = ""
-    APP_ID = ""
-    API_HASH = ""
-    DATABASE_URL = ""
-    SUDO_USERS = "" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    BOT_TOKEN = "5461373699:AAFVObVme7ZkGbTdFyU4GNlTOIbMAurd-iQ"
+    APP_ID = "14266885"
+    API_HASH = "553703b017c5d04deca34d8ffc134c06"
+    DATABASE_URL = "postgres://xpzxztdkhqlxco:63c868d956d30c4742161a4033245b561f5fbd76a5b9843e159f0fa64d72552c@ec2-52-22-136-117.compute-1.amazonaws.com:5432/daudnhdts1iv74"
+    SUDO_USERS = "683889988" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/VkingMovies05"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = ""
     G_DRIVE_CLIENT_SECRET = ""
