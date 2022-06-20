@@ -6,8 +6,8 @@ class config:
     SUDO_USERS = "683889988" # Sepearted by space.
     SUPPORT_CHAT_LINK = "https://t.me/VkingMovies05"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "794806605747-d1rirvpetalltg53ngm4e5ou9j1hooim.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "1081694070634-jgrtb7cdrh93u9s8o8a42ih9f1eoges8.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
